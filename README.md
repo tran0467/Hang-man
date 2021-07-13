@@ -37,7 +37,7 @@ Your guess?
 Finally, when all letters have been guessed, it will close the connection. 
 It should be runable using a command line line:
 
-node unit2-hangman.js
+node hangman.js
 
 And should be able to test it with a command like:
 
